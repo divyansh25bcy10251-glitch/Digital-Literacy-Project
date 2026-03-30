@@ -1,0 +1,26 @@
+Stay Safe Online: Essential Checklist for College Students
+University life in India is all about going digital, from attending lectures on MS Teams to paying for chai through UPI. It is, therefore, imperative to maintain your digital as well as financial security by adhering to the following 8-step safety checklist:
+1.	The 'Golden Rule' of UPI
+It is never recommended to enter your UPI PIN to receive money. If you receive a QR code from an unknown person claiming that you should scan the code and enter your PIN to receive a refund or win a prize, don't fall for it. It is a trick to steal your money.
+2.	Before You 'Scan & Pay'
+Before you 'scan and pay' through UPI, you should always verify the 'Verified Name' on the screen after scanning the QR code. Scammers often use fake names or display names that resemble popular brand names or university department names.
+3.	Secure Your EDU Credentials
+Your university email ID and university portal contain your personal as well as academic information. It is, therefore, imperative to use Multi-Factor Authentication (MFA) for your university email ID. When a hacker gets your password, they will never be able to access your email ID without the code on your phone.
+4.	Don't Use 'Free' Public Wi-Fi for Sensitive Information
+It is never recommended to access your bank accounts or university email ID using public Wi-Fi available in cafes, libraries, or railway stations.
+5.	Beware of "Job" or "Internship" Phishing:
+ Be wary of unsolicited messages on WhatsApp or email claiming to offer lucrative “part-time jobs" or “internships" with requirements to pay a “registration fee" or divulge your Aadhaar/PAN details.
+6.	Audit Your App Permissions: 
+Students may install various “productivity" or “exam preparation" apps. Periodically check your phone settings to ensure these applications do not have “unnecessary" access to your Contact List, Microphone, or Gallery.
+7.	Lock Your Digital Footprint: 
+Refrain from sharing your ID card photographs, hall tickets, or hostel room number details on social media. These details can be exploited by cybercriminals for identity theft and social engineering.
+
+8.	Update Your “Shields”: 
+Periodically upgrade your smartphone's Operating System and banking applications. These upgrades include “security patches" which address “vulnerabilities" exploited by hackers to inject malware or “screen-sharing" applications in your smartphone.
+
+________________________________________
+To Report a Cybercrime
+In case of falling prey to an online crime, act promptly. Prompt action is vital in “freezing" your transaction.
+•	Official Portal: cybercrime.gov.in
+•	National Helpline: 1930 (Available 24/7)
+Pro-Tip: In case of UPI or banking scams, report it within the “Golden Hour" – the first 2 hours – to recover your money.
