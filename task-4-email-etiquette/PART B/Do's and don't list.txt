@@ -1,0 +1,15 @@
+Below is your **Social Media Responsibility Checklist** as a college student, in a neat bulleted list.
+
+### ✅ The "DO" List (Best Practices)
+* **Audit Your Privacy Settings:** Review your social media account settings to ensure that only people you trust are able to access your personal photos and posts.
+* **Apply the "Grandma Rule":** Before posting anything, ask yourself if you would be okay with your grandma or future potential employer reading or seeing the content.
+* **Curate Your Brand:** Use social media to show off your university assignments, certifications, and volunteer activities to create your "professional digital twin."
+* **Verify Before You Share:** Engage in "digital literacy" best practices by verifying the source of news or social media content before sharing it with your network.
+* **Secure Your Social Media Accounts:** Ensure that Two-Factor Authentication (2FA) is enabled and that each social media account has a unique and complex password.
+
+### ❌ The "DON'T" List (Common Pitfalls)
+* **Overshare Sensitive Information:** Don't share your real-time geolocation, home address, phone number, student ID photos, and admit card photos.
+* **Practice "Digital Venting":** Don't badmouth your professors, university, or previous internship employers, as they are easily searchable.
+* **Ignore the "Paper Trail":** Don't think that "disappearing" content, such as "Stories" and "Snaps," is really private, since anyone can simply screenshot the content.
+* **Don't Spread False Information:** Don't engage in "clickbait" or "panic" news that could harm someone's reputation.
+* **Don't Click Suspicious Links:** Don't click on links sent via Direct Message (DM) claiming to be offering "free gifts" or "verifying" your account, no matter how well they know you.
